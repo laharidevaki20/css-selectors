@@ -1,0 +1,35 @@
+*{
+    background-color:beige;
+}
+p{
+    background-color:palevioletred;
+    color:black;
+}
+pre{
+    background-color:yellowgreen;
+    color:red;
+}
+h1{
+    background-color:aquamarine;
+    color:black;
+}
+h2{
+    background-color:purple;
+    color:aqua;
+}
+h3{
+    background-color:skyblue;
+    color:blue;
+}
+h4{
+    background-color:yellow;
+    color:red;
+}
+h5{
+    background-color:red;
+    color:yellowgreen;
+}
+h6{
+    background-color:blue;
+    color:blanchedalmond;
+}
